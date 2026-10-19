@@ -1,0 +1,37 @@
+{
+  "school": {
+    "name": "Pinagbuhatan High School",
+    "computerLaboratories": 5,
+    "jhsLaboratories": 4,
+    "shsLaboratories": 1,
+    "computersPerLaboratory": 56,
+    "jhsLaptopTabletSets": 46,
+    "shsLaptops": 30
+  },
+  "issues": [
+    {
+      "id": "LAB2-H6",
+      "issue": "Monitor has no display",
+      "by": "A. Mendoza · Grade 10 Excellence",
+      "time": "18 min ago",
+      "level": "HIGH",
+      "state": "In progress"
+    },
+    {
+      "id": "LAB3-H7",
+      "issue": "Keyboard keys unresponsive",
+      "by": "L. Garcia · STEM – A",
+      "time": "1 hr ago",
+      "level": "MEDIUM",
+      "state": "Open"
+    },
+    {
+      "id": "LAB1-H6",
+      "issue": "Cannot connect to network",
+      "by": "J. Reyes · Grade 8 Diligence",
+      "time": "3 hrs ago",
+      "level": "HIGH",
+      "state": "Open"
+    }
+  ]
+}
